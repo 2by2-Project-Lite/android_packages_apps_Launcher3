@@ -103,7 +103,7 @@
     <dimen name="all_apps_search_bar_field_height">48dp</dimen>
     <!-- all_apps_search_bar_field_height / 2 -->
     <dimen name="all_apps_search_bar_content_overlap">24dp</dimen>
-    <dimen name="all_apps_search_bar_bottom_padding">30dp</dimen>
+    <dimen name="all_apps_search_bar_bottom_padding">42dp</dimen>
     <dimen name="all_apps_empty_search_message_top_offset">40dp</dimen>
     <dimen name="all_apps_search_top_row_extra_height">4dp</dimen>
     <dimen name="all_apps_header_pill_height">48dp</dimen>
@@ -510,6 +510,9 @@
     <dimen name="bottom_sheet_handle_margin">16dp</dimen>
     <dimen name="widgets_bottom_sheet_handle_margin">24dp</dimen>
     <dimen name="bottom_sheet_handle_corner_radius">2dp</dimen>
+
+    <!-- Dark theme icon's -->
+    <dimen name="theme_icon_size">24dp</dimen>
 
     <!-- State transition -->
     <item name="workspace_content_scale" format="float" type="dimen">0.97</item>
